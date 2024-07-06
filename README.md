@@ -13,7 +13,7 @@ Table of Contents
 4. [Usage](#usage)
 5. [Models and Techniques](#models-and-techniques)
 6. [Results](#results)
-7. [MLflow Integration](#mlflow-integration)
+7. [ML-Life Cycle](#mlflow-integration)
 8. [Modular Coding](#modular-coding)
 9. [Contributing](#contributing)
 10. [License](#license)
@@ -64,8 +64,8 @@ Data preprocessing steps include handling missing values, encoding categorical v
 ### Results
 The performance of each model is evaluated using metrics such as accuracy, precision, recall, and F1-score. The results are visualized using plots for better interpretability.
 
-### MLflow Integration
-This project leverages MLflow to track experiments, log metrics, and store model artifacts. MLflow provides a comprehensive platform to manage the end-to-end machine learning lifecycle, ensuring reproducibility and easy comparison of different models and parameters.
+### ML Life Cycle 
+The end-to-end machine learning lifecycle, ensuring reproducibility and easy comparison of different models and parameters.
 
 ### Modular Coding
 The project follows a modular coding approach, breaking down the code into reusable and well-defined modules. This structure enhances code readability, maintainability, and allows for easy testing and debugging. Each module is responsible for a specific task, such as data preprocessing, model training, or evaluation.

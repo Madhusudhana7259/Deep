@@ -13,7 +13,7 @@ Table of Contents
 4. [Usage](#usage)
 5. [Models and Techniques](#models-and-techniques)
 6. [Results](#results)
-7. [ML-Life Cycle](#mlflow-integration)
+7. [ML-Life Cycle](#ML-Life-Cycle )
 8. [Modular Coding](#modular-coding)
 9. [Contributing](#contributing)
 10. [License](#license)
